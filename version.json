@@ -1,6 +1,6 @@
 {
-  "versionName": "2.1.0",
-  "versionCode": 53,
-  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.1.0/app-fdroid-debug.apk",
-  "body": "修复压缩后消息消失问题，新增五个桌面组件，新增LLM节点调用工具能力，修复应用加载，修复对话窗口定位，修复字号问题"
+  "versionName": "2.1.1",
+  "versionCode": 54,
+  "url": "https://github.com/chloemeadow0-code/Orange-Island-Releases/releases/download/v2.1.1/app-fdroid-debug.apk",
+  "body": "修复：冷启动恢复最近对话  点击已有旧对话跳到顶部  长对话卡顿  思考链详情面板滚动跳动  手动压缩历史后消息全部消失"
 }
